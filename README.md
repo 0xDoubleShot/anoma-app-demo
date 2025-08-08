@@ -29,14 +29,4 @@ feat: add initial README with project description and goals
 git add README.md
 git commit -m "feat: add initial README with project description and goals"
 git push
-# Repoyu klonla
-git clone https://github.com/0xDoubleShot/anoma-app-demo.git
 
-# Dizine gir
-cd anoma-app-demo
-
-# Gerekli bağımlılıkları yükle
-npm install
-
-# Uygulamayı başlat
-npm run dev
